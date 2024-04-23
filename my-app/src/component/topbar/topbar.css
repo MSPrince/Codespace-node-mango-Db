@@ -1,0 +1,49 @@
+
+/* ------------------------------------------topbar & navbar */
+.language,
+.currency {
+    background-color: #003b95;
+    /* Background color with opacity */
+    backdrop-filter: blur(10px);
+    /* Background blur */
+    border-radius: 5px;
+    padding: 2px 5px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    /* Box shadow */
+    color: yellow;
+    font-size: 15px;
+}
+
+.language img {
+    z-index: 6756;
+}
+
+.superNav i {
+    color: #FFD43B;
+    font-size: 15px;
+    animation: drop 1s ease forwards;
+    animation-delay: 5s;
+}
+
+@keyframes drop {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+
+.mobNo,
+.mail {
+    color: white;
+}
+
+.superNav {
+    font-size: 13px;
+    background-color: #003b95;
+}
