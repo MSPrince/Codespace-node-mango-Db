@@ -8,7 +8,9 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-dark">
         <div className="container-fluid">
           <Link className="navbar-brand css-text-mask" to="/">
-            Booking.com
+            Booking.comcgcjghcjhgcfhjyfcj
+            vhvhjvhj
+            vvhjk
           </Link>
           <button
             className="navbar-toggler"
