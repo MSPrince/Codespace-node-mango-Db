@@ -10,6 +10,7 @@ function Navbar() {
           <Link className="navbar-brand css-text-mask" to="/">
             Booking.comcgcjghcjhgcfhjyfcj
             vhvhjvhj
+            vhvhj
             vvhjk
           </Link>
           <button
